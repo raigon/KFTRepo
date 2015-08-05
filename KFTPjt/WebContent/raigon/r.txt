@@ -7,3 +7,7 @@ date=07/10/1980
 baptism
 place=chengalam
 church=saint antony's
+
+first communion
+place=anickad
+church=saint mary's
