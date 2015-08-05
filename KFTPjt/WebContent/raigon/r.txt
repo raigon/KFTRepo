@@ -3,3 +3,7 @@ gender=male
 place=chengalam
 hospital=mercy
 date=07/10/1980
+
+baptism
+place=chengalam
+church=saint antony's
